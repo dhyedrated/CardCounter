@@ -6,7 +6,7 @@
 package cardcounter;
 
 import hye.unicycles.game.*;
-import hye.unicycles.*;
+import hye.unicycles.interfaces.*;
 import java.util.*;
 import java.io.*;
 
@@ -111,4 +111,3 @@ public class CardCounter {
 }
 
 
-//_instance = new CardCounter();
